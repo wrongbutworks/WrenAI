@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.12.1](https://github.com/Canner/WrenAI/compare/wren-v0.12.0...wren-v0.12.1) (2026-07-08)
+
+
+### Bug Fixes
+
+* **oracle:** URL-decode credentials from connection_url ([#2434](https://github.com/Canner/WrenAI/issues/2434)) ([7db2651](https://github.com/Canner/WrenAI/commit/7db2651726efaeda4a38e05cae3a4c4b8a7b06ff))
+* **type-mapping:** fall back on sqlglot TokenError, not just ParseError ([#2433](https://github.com/Canner/WrenAI/issues/2433)) ([b7cecc7](https://github.com/Canner/WrenAI/commit/b7cecc77643b7c30a084802c9057a99c0aae26e8))
+
 ## [0.12.0](https://github.com/Canner/WrenAI/compare/wren-v0.11.0...wren-v0.12.0) (2026-07-06)
 
 
